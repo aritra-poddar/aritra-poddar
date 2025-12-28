@@ -16,7 +16,7 @@ Fork on GitHub
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritra-poddar" alt="aritra-poddar" /></a> </p>
 
-- 💡 *I’m a pre-final year B.Tech student in Computer Science and Engineering, passionate about software development , Generative AI , Quantum Computation and exploring cutting-edge technologies.*
+- 💡 *I’m a pre-final year B.Tech student in Computer Science and Engineering, passionate about software development , Agentic AI , Quantum Computation and exploring cutting-edge technologies.*
 
 - 🌱 I’m a vivid learner *Generative AI and Quantum Computing*
 
