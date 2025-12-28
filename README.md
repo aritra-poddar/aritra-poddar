@@ -14,7 +14,6 @@ Fork on GitHub
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra-poddar&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-poddar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritra-poddar" alt="aritra-poddar" /></a> </p>
 
 - 💡 *I’m a pre-final year B.Tech student in Computer Science and Engineering, passionate about software development , Agentic AI , Quantum Computation and exploring cutting-edge technologies.*
 
@@ -84,4 +83,4 @@ Fork on GitHub
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra-poddar&show_icons=true&locale=en" alt="aritra-poddar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-poddar&" alt="aritra-poddar" /></p>
+
